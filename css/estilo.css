@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    border:0;
+    padding:15px;    
+
+
+}
+
+#imagem-topo{
+    background-color:#021409;
+    text-align: center;
+}
+
+p{
+    padding: 25px;
+    text-align: justify;
+    font-family: Arial;
+    font-size: 18px;
+    text-align: center;
+    color: indigo;
+}
+
+footer{
+    background-color: #ffffff;
+    
+    text-align: center;
+}
+
+h1,h2{
+color: darkred;
+
+text-align: center;
+}
+
+pre{
+    color: crimson;
+    background-color: #021409;
+    
+    text-align: center;
+}
+
+body{ 
+    background-color: #ffffff;
+    padding-left:1px ;
+    padding-top:1px ;
+    padding-bottom:1px ;
+    padding-right:1px ;
+}
+
+img{
+    width: 25%;
+    height: 25%;
+    
+}
+
+.linkdn{
+font-size: 0.9em;
+
+
+}
+
+.nome{
+    text-align: center;
+    color: blue;
+    font-family: arial;
+}

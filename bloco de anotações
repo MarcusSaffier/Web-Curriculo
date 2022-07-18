@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+
+        <meta charset="utf-8"> 
+
+<title>
+
+    The First Website
+</title>
+<style type="text/css">
+
+    h1{
+        font-family: arial;
+        color:darkred;
+    }
+
+    h2{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:aqua;
+        font-size: 18px ;
+    }
+
+    p{
+        font-family: 'Courier New', Courier, monospace;
+        color: cornflowerblue;
+        font-size: xx-large;
+    }
+
+    footer{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: darkgreen;
+        font-size: 12px;
+    }
+
+    pre{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: blueviolet;
+        font-size: 14px;
+    }
+
+
+</style>
+
+
+</head>
+
+
+<body>
+
+
+    <img src="img/marcus-saffier.jpg" alt="marcus" >
+
+
+    <h1><br>O primeiro site by Marcus Saffier</h1>
+    
+
+    <h2>Apesar de não estar formatado, bonitão, já é algo hehe.
+    </h2>
+    <p>Aqui é onde eu posso colocar o texto que eu quiser,
+        <b>qualquer</b> coisa xD.
+
+        <br><br><br>agora gostaria de testar uma quebra de linha, usando BR. 
+    </p>
+
+    <h2>Outro subtitulo pra ir testando xD.</h2>
+
+    <p>outra linha de texto.<br>
+    </p>
+
+    <footer>
+        \\footer é o rodapé, tudo que fica em baixo
+        <pre>
+        Rodapé, podemos usar nome de empresa, cnpj, informações adicionais, etc xD
+        Nome: Marcus Saffier
+        CNPJ: 00021540210514021545121215412
+        <b>Contato:(51) 982656522</b>
+        </pre>
+        //pre usada para deixar tudo organizado exatamente como foi digitado acima
+    </footer>
+
+
+</body>
+
+
+</html>
